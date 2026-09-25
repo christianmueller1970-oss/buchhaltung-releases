@@ -3,6 +3,22 @@
     <channel>
         <title>Buchhaltung</title>
         <item>
+            <title>1.11.0</title>
+            <pubDate>Fri, 25 Sep 2026 18:23:40 +0200</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung-1.11.0.dmg" length="2512734" type="application/octet-stream" sparkle:edSignature="ZxvRPcKZmntXPIo3liXq59OQRm27iFu4KKgW2Mb+scdXMuqPrH2JnSfz5FqxGPUxJfdCr2BWGdD2y/H7x8tbDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung21-20.delta" sparkle:deltaFrom="20" length="390962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J9NALSb7cop015xT66vXvEKnSIuI1miV5pyhuzRIPsny21Csdwu1EhIbydaF4TzKX1fDJjDFENua6337nGi5Aw=="/>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung21-19.delta" sparkle:deltaFrom="19" length="394622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QsGaovq/mo5zS4H/2+B0q7ED1Rxvd8z99SAEpTfyYH6XQdWfEM6uMFC1gNiAOflpCE7Pon518xLVsewmsVLeCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung21-18.delta" sparkle:deltaFrom="18" length="431722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yygctkmt+nS00RXZiKq1LNcDL9CZeD1pG6Wk9PScyLfP1hXYDP/lpx2PePnQBZUTgDboCJOY33m0xXRxkKR6CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung21-17.delta" sparkle:deltaFrom="17" length="458530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VjFCmwh4K93zDQqXGULvjuhJ53i++2QZSiM8zyBS7dv3ph/Cut8Qoa29GVPWBoN647ivglDbFx7pLeUU6lMjAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung21-16.delta" sparkle:deltaFrom="16" length="465902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aXMuRVeHzrrBR/ctwKUSxtOEUa2SW2MEW8VPhvMQ8usbnPFnekbTU4nsUmk65YA8uaXTzqfuM+f5tvowKEjRAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.10.1</title>
             <pubDate>Thu, 03 Sep 2026 16:15:38 +0200</pubDate>
             <sparkle:version>20</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung19-16.delta" sparkle:deltaFrom="16" length="303558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="81W0OugC/Ia9DWMO9EnysAN0QoWdz+//NhfN+5OGRDHBIlQI68T3sKgxsV8Aioe+jgccI7IZ23ueR2/Z+yHuAQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung19-15.delta" sparkle:deltaFrom="15" length="347074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6MJoTooqIoVSJhszIOnGMbtpyVlzlR2311JETlTughAmXsjvuURAv3oF7LzrvH1dHtdl5R8RAgMXiJ+sF0bhBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung19-14.delta" sparkle:deltaFrom="14" length="348274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xJM9DUO9js9WINqX1TY+gecQWbz119xxrE8+dqbXKfMOyMD13HLw/G7nWIEKxDGmjAbTRJ3PtU97QCad9dWkCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.9.0</title>
-            <pubDate>Thu, 20 Aug 2026 10:29:23 +0200</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung-1.9.0.dmg" length="2399174" type="application/octet-stream" sparkle:edSignature="Z+bEyHEP/QNzpTI4ahF36GqtTcV4Wf/PX9YLjBkyvXBbzgQcYpaoou1y40wd1THb3x2gv8gc1Vj228FCcAGPCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung18-17.delta" sparkle:deltaFrom="17" length="188486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YOemd4ias+UxCLw7CvwhhjIYYGvMXPouNPZzMGV9TBtrxNEoEpF2kAl3gXCvHpIUxyKGFQPiyw9vNMeHLWNaDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung18-16.delta" sparkle:deltaFrom="16" length="204670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XsOqwnXFSvFJzbwyzmUgZAt9Bld5heKEVmAau3841uCbnlqKz5Ymej9TNlVe6CSEhpt088KO2KmcTCGb2VufDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung18-15.delta" sparkle:deltaFrom="15" length="256694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="67q8VFDLKeqS6ls6ItEuxiwCLFKXPGyfOCkCjPvT/ioOsnoukoD/CpYxh8Go8kaIi84qnPGcYYs5AWlOY5yXDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung18-14.delta" sparkle:deltaFrom="14" length="261454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Igf4XzVh/Sro1hxGGj+C/aGWtgfTjE4o6fqmLMTH3+q9eDHLpAozfCO/Xop74d6N3cYo69VgyDdYPBANML0wCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/buchhaltung-releases/main/Buchhaltung18-9.delta" sparkle:deltaFrom="9" length="357678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rK86yrTALPFtbyeuEd1Q0CbYvgtk3cN6jB9efVfNfBEHpw9aSwYOescUjW9xNlFqGuvcWY1pYVvrXFQginKbCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
